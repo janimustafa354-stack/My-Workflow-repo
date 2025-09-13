@@ -1,0 +1,29 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "## For all the shortcuts \n**Double click** to edit me.\n \n[Shortcuts](https://docs.n8n.io/keyoard-shortcuts/#canvas)"
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -80,
+        16
+      ],
+      "typeVersion": 1,
+      "id": "70ddc96e-070c-4454-9209-bd2838dbcf8f",
+      "name": "Sticky Note"
+    }
+  ],
+  "pinData": {},
+  "connections": {},
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "",
+  "meta": {
+    "instanceId": "9a484c08a15c00988432038287835506f8c50e2d727bcf4a0f01574650700885"
+  },
+  "tags": []
+}
